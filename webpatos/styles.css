@@ -8,10 +8,7 @@
 }
 .navbar-space {
     padding-top: 100px; 
-}
-.pinkF {
-    color: pink;
-}      
+} 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
     background-color: rgba(0, 0, 0, 0.5); /* Fondo oscuro con opacidad */
