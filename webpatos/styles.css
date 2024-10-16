@@ -17,3 +17,10 @@
     background-color: rgba(0, 0, 0, 0.5); /* Fondo oscuro con opacidad */
     border-radius: 50%; /* Bordes redondeados */
 }
+.back {
+    background-image: url('images/burbujas.png'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-attachment: fixed; 
+}
